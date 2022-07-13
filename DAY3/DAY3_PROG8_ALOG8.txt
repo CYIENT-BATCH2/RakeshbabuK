@@ -1,0 +1,3 @@
+1)Take input from user
+2)If condition is true it will be print alphabet
+3)oterwise it will print not alphabet

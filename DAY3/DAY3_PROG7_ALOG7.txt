@@ -1,0 +1,4 @@
+1)Take the input from user.
+2)Take birth year and  birth month.
+3)Take present year and prsent month.
+4)condition will be check then it will be print age.

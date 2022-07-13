@@ -1,0 +1,5 @@
+1)Take input from user.
+2)we have to add the first number and second last number.
+3)If the condition is true count will be  increases.
+4)Again in condition we have to compare if the count is equal to five and then print the sum.
+5)After we get output.

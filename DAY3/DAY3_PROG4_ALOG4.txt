@@ -1,0 +1,4 @@
+1)Intialize the  value and postion.
+2)convert that value into hexa decimal.
+3)convert the value in binary form.  
+4)print the same value.

@@ -1,0 +1,5 @@
+1)Initialize the values.
+2)convert hex value into binary form.
+3)convert binary value to hex value.
+4)convert hexvalue into decimal and binary form.
+5)convert binary value to decimal and hex value.

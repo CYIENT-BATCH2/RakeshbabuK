@@ -1,0 +1,7 @@
+1)Taking input from the user.
+2)Taking temporary  variable.
+3)If the reminder is greater than zero.
+4)Number is divisible by 10.
+5)Reverse is taken as zero,it wii be multiple with 10 and add it with reminder.
+6)Number is divisible by 10. 
+7)Print the reverse number.

@@ -1,0 +1,5 @@
+1)Take the input from user.
+2)we have take 8 integers and 7 float values.
+3)Calculate and Print the sum, average and mean of integers.
+4)Calculate and Print the sum, average of all float values.
+5)Convert all 7 float values to integers and print them.

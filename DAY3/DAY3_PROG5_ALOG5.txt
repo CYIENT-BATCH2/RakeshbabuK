@@ -1,0 +1,4 @@
+1)Intialize the hex value.
+2)convert hex value into binary form.
+3)right shitf the value by 3 times.
+4)Then print the binary form.

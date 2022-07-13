@@ -1,0 +1,6 @@
+1)Take the input from user.
+2)Enter the hex value.
+3)Take the bit value from  user.
+4)right shift the data by bit times.
+5)printf the number.
+6)Then it will convert into binary form.
