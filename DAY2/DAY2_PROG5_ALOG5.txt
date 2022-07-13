@@ -1,0 +1,4 @@
+1)Take the input from user.
+2)condition checking using logical and operator.
+3)If condition is true  it will print 1=A,2=B.
+4)Then the values of the alphabets will be obtained.

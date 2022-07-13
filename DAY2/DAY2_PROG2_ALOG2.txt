@@ -1,0 +1,8 @@
+1)Take the input from the user
+2)Taking number and binary value as bin
+3)If the position is greater than zero then 
+4)print the binary form 
+5)number is right shifted bitwise & with one
+6)And decrement the position
+7)Then it will print the two digit number as binary form.
+8)Or else it will not be an two digit number or binary form. 

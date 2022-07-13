@@ -1,0 +1,5 @@
+1)Take the input from user.
+2)Taking goto statement and write program.
+3)If number is not equal to zero then it will be divided with zero.
+4)After dividing reminder will be added with the sum.
+5)Then it will print the sum of digits.

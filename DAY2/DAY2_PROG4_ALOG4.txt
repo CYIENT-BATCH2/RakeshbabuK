@@ -1,0 +1,5 @@
+1)Take the input from user
+2)Taking goto statement write program ,finding lottery of tickets
+3)If number is not equal to zero then it is goto body of if statement
+4)Then check reminder is equal to three it will be count
+5)If count is greater than zero and it will be print the lottery tickets. 

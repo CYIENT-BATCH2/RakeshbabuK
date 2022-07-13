@@ -1,0 +1,4 @@
+1)Taken the input as no. of students and scan the input.
+2)Number of handshakes should be counted when they meet each other.
+3)Then the equation  is n*(n-1).
+4)Then it will print the total number of handshakes.

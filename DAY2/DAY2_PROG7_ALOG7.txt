@@ -1,0 +1,5 @@
+1)Take the input from user
+2)we have to calculate the leap year.
+3)The leap year is divisible by 4 and equal to condition.
+4)If condition is true it will prinnt leap year.
+5)other wise it wii be print not leap year.
