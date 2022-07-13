@@ -1,0 +1,4 @@
+1) Taken as the user input.
+2) if the number got that remainder is equal to zero or one.
+3) Then it will print as "special number".
+4) if that condition is false,then it will print as "not special number".
