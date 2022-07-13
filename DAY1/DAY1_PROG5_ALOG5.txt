@@ -1,0 +1,6 @@
+1)Take the input from user
+2)Enter the number
+3)IF the number is divisible by 2
+4)Reminder is equal to zero
+5)print the even number
+6)Reminder is equal to one then it prints odd number.

@@ -1,0 +1,5 @@
+1)Take the student attendance as input
+2)Traversing in loop the attendence which have lower order comes first
+3)Compare two attendence with each other whose order is lower then stored in a variable
+4)The same process which have done until last attendence
+5)After loop,then print the values which is stored in variable.

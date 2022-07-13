@@ -1,0 +1,7 @@
+1. Takes the input like weights from the user.
+2. Comparing the 3 weights which one is biggest.
+3)If number a is greater than c logical or with b is greater than a condition checking
+4)print the heaviest number
+5)If b is greater than c logical or with b is grater than a condition checking
+6)print the heaviest number
+7)other wise,it will be execute c as heaviest number.

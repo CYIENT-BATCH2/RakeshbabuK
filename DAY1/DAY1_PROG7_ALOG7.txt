@@ -1,0 +1,10 @@
+1)Taking input from user
+2)Taking temporary  variable
+3)If the reminder is greater than zero
+4)Number is divisible by 10
+5)Reverse is taken as zero,it wii be multiple with 10 and addition  with reminder
+6)Number is divisible by 10 
+7)Number is not equal to zero
+8)The temporary variable is compared with reverse number 
+9)condition is true means it will print palindrome number
+10)Other wise it will print not palindrome number 

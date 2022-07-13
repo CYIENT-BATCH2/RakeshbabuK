@@ -1,0 +1,10 @@
+1)Take input from user
+2)Take Reminder,Number,reverse=0
+3)Enter the number
+4)Using goto statement we have to  write program
+5)If the reminder is greater than zero
+6)Number is divisible by 10 it will be reminder
+7)Reverse and multiple with 10 then add reminder
+8)Number will be divided with 10
+9)If number is not equal to zero goto statement will be execute
+10)After we will get reverse number.

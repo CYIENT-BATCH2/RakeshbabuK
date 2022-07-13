@@ -1,0 +1,5 @@
+1)Taken the user has three inputs.
+2)if the both inputs are high in logical AND operator the output will be high.
+3)if any one of input are high in logical OR operator the output will be high.
+4)if the input as high the output will be low in NOT gate.
+5)then it will print values of AND,OR,NOT output values.
