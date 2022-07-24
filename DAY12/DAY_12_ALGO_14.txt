@@ -1,0 +1,3 @@
+1.According to their requirements we have to find the common element in an array.
+2.1st array is equal to 2nd array AND with 2nd array is equal to 3rd array.
+3.Print the common element in an array.
