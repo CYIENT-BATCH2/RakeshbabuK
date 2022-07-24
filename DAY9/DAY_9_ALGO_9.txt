@@ -1,0 +1,4 @@
+1.The values of various switch status and fault status of various switch are given
+2.the array is also with size 3
+3.with the help of bitwise operation we can store the elemnts in the array index
+4.Also print the binary value of all the array 

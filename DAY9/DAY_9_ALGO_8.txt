@@ -1,0 +1,4 @@
+1.Enter the CMCON and ADCONO values.
+2.Taken the result as variable to store the values.
+3.Using bitwise operator we are finding the value if some bits are set to 0x06 in ADCONO register.
+4.else print ADCONO value not equal to 0x06.

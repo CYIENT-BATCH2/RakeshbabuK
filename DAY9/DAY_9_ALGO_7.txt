@@ -1,0 +1,4 @@
+1)Take the input from user
+2)set the register SSPSTAT value
+3)In that register CKE,P and S bit are cleared with out distrubing the other bits
+4)Find out the value  of UA,BF,SMP bit in SSPSTAT register if the value of the register is 0x55
