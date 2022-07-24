@@ -1,0 +1,7 @@
+1.Define a user function which has two arguments and one return value
+2.Declare a two variables in main function as number and bit position in main function
+3.Read the number and bit position from the user
+4.Call the user function
+5.Pass the values, number and bit position to the user fuction 
+6.In user function, flip the bit position as per given bit position
+7.Print the value after flipping the bit position
