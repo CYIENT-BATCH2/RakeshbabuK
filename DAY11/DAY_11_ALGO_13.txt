@@ -1,0 +1,3 @@
+1)We have to taken the variable as first ,last and middle to search.
+2)Using if and else if condition doing some operation we should find the index values.
+3)Print the values in given position index.
