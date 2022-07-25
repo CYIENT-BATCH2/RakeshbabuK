@@ -1,0 +1,4 @@
+1.All inputs are given in problems like array,values are declare.
+2.Print the binery for the given input.
+3.Transfer the  given bit to that given position by using Right shift operator.
+4.Print that all index with using arrays
